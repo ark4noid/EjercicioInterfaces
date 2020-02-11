@@ -1,0 +1,11 @@
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\obj\Debug\netcoreapp3.1\EjerciciosInterfaces.csprojAssemblyReference.cache
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\obj\Debug\netcoreapp3.1\EjerciciosInterfaces.AssemblyInfoInputs.cache
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\obj\Debug\netcoreapp3.1\EjerciciosInterfaces.AssemblyInfo.cs
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.exe
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.deps.json
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.runtimeconfig.json
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.runtimeconfig.dev.json
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.dll
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\bin\Debug\netcoreapp3.1\EjerciciosInterfaces.pdb
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\obj\Debug\netcoreapp3.1\EjerciciosInterfaces.dll
+C:\Users\FundaciónOnce\git\EjerciciosInterfaces\obj\Debug\netcoreapp3.1\EjerciciosInterfaces.pdb
